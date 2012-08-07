@@ -12,3 +12,5 @@
   require_once 'init/thumbnail_sizes.php';
   require_once 'init/site_options.php';
   require_once 'init/hooks.php';
+  
+//  modifica
